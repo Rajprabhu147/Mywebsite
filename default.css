@@ -432,7 +432,7 @@ h6{font-size: 16px;}
 
 @media screen and (max-width: 400px){
 	#preview-shadow{
-		max-width: 280px;
+		max-width: 250px;
 		height: 180px;
 		padding-left: 10px;
 		padding-top: 10px;
