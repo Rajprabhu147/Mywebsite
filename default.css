@@ -125,6 +125,7 @@ h6{font-size: 16px;}
 	margin: 0;
 	padding: 10px;
 }
+
 #navigation li{
 	display: inline-block;
 	margin-right: 5px;
@@ -209,10 +210,6 @@ h6{font-size: 16px;}
 
 }
 
-.theme-dot:hover{
-	border-width: 5px;
-}
-
 
 .theme-dot:hover{
 	border-width: 5px;
@@ -247,20 +244,21 @@ h6{font-size: 16px;}
 
 }
 
+#preview-shadow{
+	background-color: var(--previewShadow);
+	max-width: 300px;
+	height: 180px;
+	padding-left: 30px;
+	padding-top: 30px;
+
+}
+
 #preview{
-	width: 500px;
+	width: 300px;
 	border: 1.5px solid #17a2b8;
 	background-color: var(--previewBg);
 	padding: 15px;
 	position: relative;
-
-}
-#preview-shadow{
-	background-color: var(--previewShadow);
-	max-width: 500px;
-	height: 240px;
-	padding-left: 30px;
-	padding-top: 30px;
 
 }
 
@@ -324,7 +322,7 @@ h6{font-size: 16px;}
 .post-wrapper{
 	display: grid;
 	grid-template-columns: repeat(auto-fit, 320px);
-	gap: 20px;
+	gap: 50px;
 	justify-content: center;
 	padding-bottom: 50px;
 
@@ -346,7 +344,7 @@ h6{font-size: 16px;}
 	object-fit: cover;
 }
 
-.pos-preview{
+.post-preview{
 	background-color: #fff;
 	padding: 15px;
 
@@ -411,7 +409,7 @@ h6{font-size: 16px;}
 
 
 @media screen and (max-width: 1200px){
-	.main-contenter{
+	.main-container{
 		width: 95%;
 
 	}
@@ -424,13 +422,12 @@ h6{font-size: 16px;}
 			'nav-wrapper'
 			'left-column' 
 			'right-column';
+		}
 
-
-
-	}
 	.right-column{
 		justify-content: center;
 	}
+	
 }
 
 @media screen and (max-width: 400px){
