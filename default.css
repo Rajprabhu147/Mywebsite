@@ -10,7 +10,7 @@
 	--themeDotBorder:#24292e;
 	--previewBg:rgb(251, 249, 243, 0.8);
 	--previewShadow: #f0ead6;
-	--buttonColor: black;
+	--buttonColor: #eaeaea;
 
 
 }
@@ -216,7 +216,7 @@ h6{font-size: 16px;}
 }
 
 #light-mode{
-	background-color: #fff;
+	background-color: #eaeaea;
 }
 #blue-mode{
 	background-color: #192734;
