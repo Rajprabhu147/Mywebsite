@@ -437,9 +437,10 @@ h6{font-size: 16px;}
 	.greeting-wrapper{
 		min-height: 0;
 		padding: 20px;
+		gap: 10px;
 	}
 	.about-wrapper{
-		padding: 20px;
+		padding: 10px;
 	}
 	.about-me{
 		padding-bottom: 0px;
