@@ -434,6 +434,12 @@ h6{font-size: 16px;}
 
 @media screen and (max-width: 400px){
 
+	.left-column {
+    grid-area: left-column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
 	.greeting-wrapper{
 		min-height: 0;
 		padding: 20px;
