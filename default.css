@@ -435,7 +435,7 @@ h6{font-size: 16px;}
 @media screen and (max-width: 400px){
 
 	.greeting-wrapper{
-		min-height: initial;
+		min-height: 0;
 	}
 
 
