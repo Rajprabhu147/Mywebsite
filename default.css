@@ -436,9 +436,10 @@ h6{font-size: 16px;}
 
 	.greeting-wrapper{
 		min-height: 0;
+		padding: 20px;
 	}
 	.about-wrapper{
-		padding: 0px;
+		padding: 20px;
 	}
 
 
