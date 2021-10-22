@@ -9,7 +9,7 @@
 
 	--themeDotBorder:#24292e;
 	--previewBg:rgb(251, 249, 243, 0.8);
-	--previewShadow: #f0ead6;
+	--previewShadow:#f0ead6;
 	--buttonColor: #eaeaea;
 
 
@@ -225,7 +225,7 @@ h6{font-size: 16px;}
 #green-mode{
 	background-color: #6db784;
 }
-#purple-mode{
+#peach-mode{
 	background-color: #7E4C74;
 
 }
