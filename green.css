@@ -1,17 +1,12 @@
 :root{
-	--mainColor:#c2d2bd;
-	--secondaryColor:#6db784;
-
-	--borderColor:#161914;
-
-	--mainText:#545454;
-	--secondaryText:#404040;
-
-	--themeDotBorder:#FFF;
-
-	--previewBg:#f5f7f4;
-	--previewShadow: #f9e45b;
-
-	--buttonColor: $669966;
+    --mainColor: #52ab98;
+    --secondaryColor: #c8d8e4;
+    --borderColor: #161914;
+    --mainText: #545454;
+    --secondaryText: #404040;
+    --themeDotBorder: #FFF;
+    --previewBg: #e1eedd;
+    --previewShadow: #c2d2bd;
+    --buttonColor: $669966;
 
 }
