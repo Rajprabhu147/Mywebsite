@@ -440,12 +440,11 @@ h6{font-size: 16px;}
 		gap: 10px;
 	}
 	.about-wrapper{
-		padding: 10px;
+		padding-bottom: 10px;
+		padding-top: 10px;
+		gap: 20px;
 	}
-	.about-me{
-		padding-bottom: 0px;
-	}
-
+	
 
 	#preview-shadow{
 		max-width: 280px;
