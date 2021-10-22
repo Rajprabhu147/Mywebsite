@@ -44,7 +44,7 @@ p, li, span, label, input, textarea{
 
 a{
 	text-decoration: none;
-	color: #17a2b8;
+	color: #de5499;
 }
 
 ul{
@@ -402,7 +402,7 @@ h6{font-size: 16px;}
 	width: 100%;
 	padding-top: 10px;
 	padding-bottom: 10px;
-	color: #fff;
+	color: #3e3e3e;
 	background-color: var(--buttonColor);
 	border: none;
 }
