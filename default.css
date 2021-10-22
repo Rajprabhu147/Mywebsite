@@ -368,7 +368,7 @@ h6{font-size: 16px;}
 	max-width: 600px;
 	margin: 0 auto;
 	border: 1px solid var(--borderColor);
-	padding: 15px;
+	padding: 20px;
 	border-radius: 5px;
 	background-color: var(--mainColor);
 	margin-bottom: 50px;
@@ -386,7 +386,7 @@ h6{font-size: 16px;}
 }
 
 .input-field{
-	width: 98%;
+	width: 100%;
 	padding-top: 10px;
 	padding-bottom: 10px;
 	background-color: var(--secondaryColor);
