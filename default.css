@@ -433,6 +433,12 @@ h6{font-size: 16px;}
 }
 
 @media screen and (max-width: 400px){
+
+	.greeting-wrapper{
+		min-height: initial;
+	}
+
+
 	#preview-shadow{
 		max-width: 280px;
 		height: 180px;
@@ -457,4 +463,5 @@ h6{font-size: 16px;}
 	h5 {
     	font-size: 12px;
 	}
+
 }
