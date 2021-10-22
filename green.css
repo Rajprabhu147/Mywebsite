@@ -5,11 +5,11 @@
 	--borderColor:#161914;
 
 	--mainText:#545454;
-	--secondaryText:#666666;
+	--secondaryText:#404040;
 
 	--themeDotBorder:#FFF;
 
-	--previewBg:rgb(81, 90, 72, 0.8);
+	--previewBg:#f5f7f4;
 	--previewShadow: #f9e45b;
 
 	--buttonColor: $669966;
